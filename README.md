@@ -16,4 +16,4 @@ A Music Discord Bot with lot Commands....
 
 Support Server [For any Help]
 -
- https://dsc.gg/manager.development
+ https://dsc.gg/maxgaming-yt
